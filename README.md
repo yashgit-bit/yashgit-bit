@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Yash%20Joshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Yash%20Joshi&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Aspiring%20AI%20Engineer&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=yashgit-bit">
@@ -16,7 +16,6 @@
 - Python
 - NumPy | Pandas
 - Matplotlib | Seaborn | Plotly | Cufflinks
-- FastAPI
 - Git & GitHub
 - 🧠 Areas of Interest:
 - Machine Learning
@@ -34,27 +33,6 @@
 **Learn → Build → Share → Improve**
 
 
-## 🧠 My Focus Areas
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Generative AI
-- AI Agents
-- Python Development
-- Backend Development
-- FastAPI
-- Data Analysis
-- Data Visualization
-- Regression & Predictive Modeling
-- Classification Algorithms
-- Clustering Techniques
-- Open Source
-- Building AI Projects
-- Learning in Public
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -62,9 +40,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashgit-bit&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="yashgit-bit's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=yashgit-bit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="yashgit-bit's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=yashgit-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Yash Joshi's GitHub Trophies" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
