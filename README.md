@@ -1,16 +1,127 @@
-## Hi there 👋
-# 💫 About Me:
-🚀 17-year-old aspiring AI Engineer from India<br><br>📚 Currently learning Python,  Machine Learning, Deep Learning , and APIs.<br>💻 Building projects and sharing my learning journey<br>🌱 Exploring AI, Data Science, and Backend Development<br>🎯 Goal: Become a skilled AI Engineer by building real-world projects<br><br>"Learn. Build. Improve. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Yash%20Joshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=yashgit-bit">
+    <img src="https://komarev.com/ghpvc/?username=yashgit-bit&label=Profile%20views&color=00FFFF&style=flat-square" alt="yashgit-bit's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- # Hi there, I'm Yash 👋
+- ### 🚀 Aspiring AI Engineer
+- 💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science.
+- 🔭 Currently learning and building with:
+- Python
+- NumPy | Pandas
+- Matplotlib | Seaborn | Plotly | Cufflinks
+- FastAPI
+- Git & GitHub
+- 🧠 Areas of Interest:
+- Machine Learning
+- Deep Learning
+- Regression
+- Classification
+- Clustering
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- AI-Powered Applications
+- 🎯 Mission:
+- To build intelligent solutions, contribute to open-source, and grow through continuous learning and real-world projects.
+---
+- ### ⚡ Philosophy
+**Learn → Build → Share → Improve**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashjoshiglobal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yashjoshiglobal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjoshiglobal@gmail.com) 
+## 🧠 My Focus Areas
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Generative AI
+- AI Agents
+- Python Development
+- Backend Development
+- FastAPI
+- Data Analysis
+- Data Visualization
+- Regression & Predictive Modeling
+- Classification Algorithms
+- Clustering Techniques
+- Open Source
+- Building AI Projects
+- Learning in Public
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yashgit-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yashgit-bit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashgit-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/yashgit-bit">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashgit-bit&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="yashgit-bit's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=yashgit-bit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="yashgit-bit's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=yashgit-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Yash Joshi's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="linkedin.com/in/yashjoshiglobal/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/yashjoshiglobal">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@yashperspective">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:yashjoshiglobal@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://yashgit-bit.github.io/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
