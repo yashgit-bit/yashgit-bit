@@ -11,13 +11,13 @@
 ## 📌 About Me
 - # Hi there, I'm Yash 👋
 - ### 🚀 Aspiring AI Engineer
-💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science.
-🔭 Currently learning and building with:
+ #💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science. 
+ #🔭 Currently learning and building with:
 - Python
 - NumPy | Pandas
 - Matplotlib | Seaborn | Plotly | Cufflinks
 - Git & GitHub
-🧠 Areas of Interest:
+  #🧠 Areas of Interest:
 - Machine Learning
 - Deep Learning
 - Regression
@@ -26,7 +26,7 @@
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - AI-Powered Applications
-🎯 Mission:
+ #🎯 Mission:
 - To build intelligent solutions, contribute to open-source, and grow through continuous learning and real-world projects.
 ---
 - ### ⚡ Philosophy
